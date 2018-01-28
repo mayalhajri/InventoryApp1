@@ -20,7 +20,7 @@ Updating information based on user input ,
 Creating intents to other apps using stored information.
 
 # Build Your Project
-Your project will be evaluated using the [Inventory App project rubric ] (https://review.udacity.com/#!/rubrics/163/view)
+Your project will be evaluated using the [Inventory App project rubric ](https://review.udacity.com/#!/rubrics/163/view)
 
 Additional Criteria
 The intent of this project is to give you practice writing raw Java code using the necessary classes provided by the Android framework; therefore, the use of external libraries will not be permitted to complete this project.
